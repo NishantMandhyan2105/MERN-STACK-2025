@@ -1,0 +1,15 @@
+h1{
+    font-size: x-large;
+font-style: italic;    
+color: aqua;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-style: oblique;
+font-size: xx-small;
+}
+#img{
+    align-items:flex-end;
+    background-size: 0%;
+    background-repeat: repeat;
+}
